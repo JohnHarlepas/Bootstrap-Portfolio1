@@ -58,6 +58,13 @@ main {
   border: none;
 }
 
+/* @media only screen and (max-width: 767px) {
+  .navbar {
+    
+
+  }
+} */
+}
 /* media query for nav background color change */
 @media only screen and (max-width: 767px) {
   .navBarArea {
